@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Laky730
-- 👀 I’m interested in game desing (particularly game engines), web design and more.
+- 👀 I’m interested in game design (particularly game engines), web design and more.
 - 🌱 I’m currently learning C++.
 
 <!---
